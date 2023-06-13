@@ -5,7 +5,9 @@ This repository provides I3D and Skeletal features extracted from the HA4M datas
 ## I3D and Skeletal Features
 
 All the features, the ground truth, and the test-train splits considered are available [at this link](https://cloud.cnr.it/owncloud/index.php/s/ZBrMapYdFkL6xy2).
+
 Each folder contains a specific set of features for each video, namely RGB, RGBA, Depth, UpSkel, and ArmSkel. The repository includes also the Ground Truth folder.
+
 The directory tree is as follows:
 
 ```
@@ -41,6 +43,7 @@ GroundTruth:
 ```
 
 RGB, RGBA and Depth sets of features have been extracted using the I3D model, resulting in 1024 features per frame for each video.
+
 UpSkel and ArmSkel sets of features have been extracted from the videos using the Azure Kinect Body Tracking DK, resulting in 23 and 14 skeletal 3D coordinates.
 
 ## Dataset Splittings
@@ -50,6 +53,7 @@ The files "test.splitN.bundle" and "train.splitN.bundle" contain the test-train 
 ## Contacts:
 
 Laura Romeo: laura.romeo@stiima.cnr.it
+
 Roberto Marani: roberto.marani@stiima.cnr.it
 
 ## Cite:
