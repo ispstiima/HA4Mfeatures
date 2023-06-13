@@ -4,7 +4,7 @@ This repository provides I3D and Skeletal features extracted from the [HA4M data
 
 ## I3D and Skeletal Features
 
-'''
+```
 RGB
 --- IDU001V001.npy
 --- IDU001V002.npy
@@ -30,7 +30,7 @@ GroundTruth
 --- IDU001V001.txt
 --- IDU001V002.txt
 --- ...
-'''
+```
 All the features, the ground truth, and the test-train splits considered are available [at this link](https://cloud.cnr.it/owncloud/index.php/s/ZBrMapYdFkL6xy2).
 Each folder contains a specific set of features for each video, namely RGB, RGBA, Depth, UpSkel, and ArmSkel.
 RGB, RGBA and Depth sets of features have been extracted using the I3D model, resulting in 1024 features per frame for each video.
