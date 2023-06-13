@@ -5,28 +5,32 @@ This repository provides I3D and Skeletal features extracted from the [HA4M data
 ## I3D and Skeletal Features
 
 ```
-RGB
+RGB:
 --- IDU001V001.npy
 --- IDU001V002.npy
 --- ...
-RGBA
+
+RGBA:
 --- IDU001V001.npy
 --- IDU001V002.npy
 --- ...
-Depth
+
+Depth:
 --- IDU001V001.npy
 --- IDU001V002.npy
 --- ...
-UpSkel
+
+UpSkel:
 --- IDU001V001.npy
 --- IDU001V002.npy
 --- ...
-'''
-ArmSkel
+
+ArmSkel:
 --- IDU001V001.npy
 --- IDU001V002.npy
 --- ...
-GroundTruth
+
+GroundTruth:
 --- IDU001V001.txt
 --- IDU001V002.txt
 --- ...
