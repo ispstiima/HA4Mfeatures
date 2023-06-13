@@ -58,7 +58,7 @@ Roberto Marani: roberto.marani@stiima.cnr.it
 
 ## Cite:
 
-If you want to use this repository, please remember to cite the paper where the HA4M dataset is presented:
+If you want to use this repository, please cite the paper where the HA4M dataset is presented:
 
 ```
 @article{Cicirelli2022,
