@@ -50,6 +50,7 @@ The files "test.splitN.bundle" and "train.splitN.bundle" contain the test-train 
 ## Contacts:
 
 Laura Romeo: laura.romeo@stiima.cnr.it
+Roberto Marani: roberto.marani@stiima.cnr.it
 
 ## Cite:
 
