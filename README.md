@@ -1,6 +1,6 @@
 # Deep Learning methodologies for action segmentation applied to manufacturing scenarios
 
-This repository provides I3D and Skeletal features extracted from the HA4M dataset ([available here](https://baltig.cnr.it/ISP/ha4m)), for the analysis performed in the paper Deep Learning methodologies for action segmentation applied to manufacturing scenarios.
+This repository provides I3D and Skeletal features extracted from the HA4M dataset ([available here](https://baltig.cnr.it/ISP/ha4m)), for the analysis performed in the paper "Deep Learning methodologies for action segmentation applied to manufacturing scenarios", submitted to Pattern Recognition Elsevier journal.
 
 ## I3D and Skeletal Features
 
@@ -49,6 +49,10 @@ UpSkel and ArmSkel sets of features have been extracted from the videos using th
 ## Dataset Splittings
 
 The files "test.splitN.bundle" and "train.splitN.bundle" contain the test-train splitting protocol of the 205 videos within the HA4M dataset, where N=1 stands for Cross-Subject splitting, while N=2 and N=3 stand for Cross-Location splittings, namely C-Loc12 and C-Loc21. "test.split1_newData.bundle" contains the test set of the new data collection. For further analysis, we also provide a Cross-Subject splitting for all the 217 videos of the HA4M dataset, at N=4.
+
+## Analysis Results
+
+The provided features have been used alone and mixed among each other, to train five deep learning models at the state-of-the-art for Human Action Segmentation (MS-TCN, MS-TCN++, BCN, C2F-TCN, ASFormer). The methodological approach and the experiments performed have been submitted with the manuscript "Deep Learning methodologies for action segmentation applied to manufacturing scenarios". The complete results of such analysis will be added to the present repository.
 
 ## Contacts:
 
