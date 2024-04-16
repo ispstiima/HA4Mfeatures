@@ -1,6 +1,6 @@
-# Deep Learning methodologies for action segmentation applied to manufacturing scenarios
+# Multi-modal Temporal Action Segmentation for Manufacturing Scenarios
 
-This repository provides I3D and Skeletal features extracted from the HA4M dataset ([available here](https://baltig.cnr.it/ISP/ha4m)), for the analysis performed in the paper "Deep Learning methodologies for action segmentation applied to manufacturing scenarios", submitted to Pattern Recognition Elsevier journal.
+This repository provides I3D and Skeletal features extracted from the HA4M dataset ([available here](https://baltig.cnr.it/ISP/ha4m)), for the analysis performed in the paper "Multi-modal Temporal Action Segmentation for Manufacturing Scenarios", submitted to "Engineering Applications of Artificial Intelligence" Elsevier journal.
 
 ## I3D and Skeletal Features
 
