@@ -1,6 +1,6 @@
 # Multi-modal Temporal Action Segmentation for Manufacturing Scenarios
 
-This repository provides I3D and Skeletal features extracted from the HA4M dataset ([available here](https://baltig.cnr.it/ISP/ha4m)), for the analysis performed in the paper "Multi-modal Temporal Action Segmentation for Manufacturing Scenarios", submitted to "Engineering Applications of Artificial Intelligence" Elsevier journal.
+This repository provides I3D and Skeletal features extracted from the HA4M dataset ([available here](https://baltig.cnr.it/ISP/ha4m)), for the analysis performed in the paper "Multi-modal Temporal Action Segmentation for Manufacturing Scenarios", published in "Engineering Applications of Artificial Intelligence" Elsevier journal.
 
 ## I3D and Skeletal Features
 
@@ -65,14 +65,13 @@ Roberto Marani: roberto.marani@stiima.cnr.it
 If you want to use this repository, please cite the paper where the HA4M dataset is presented:
 
 ```
-@article{Cicirelli2022,
-  title={The HA4M dataset: Multi-Modal Monitoring of an assembly task for Human Action recognition in Manufacturing},
-  author={Cicirelli, Grazia and Marani, Roberto and Romeo, Laura and Dom{\'\i}nguez, Manuel Garc{\'\i}a and Heras, J{\'o}nathan and Perri, Anna G and D’Orazio, Tiziana},
-  journal={Scientific Data},
-  volume={9},
-  number={1},
-  pages={1--12},
-  year={2022},
-  publisher={Nature Publishing Group}
+@article{Romeo2025,
+  title={Multi-modal temporal action segmentation for manufacturing scenarios},
+  author={Romeo, Laura and Marani, Roberto and Perri, Anna Gina and Gall, Juergen},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={148},
+  pages={110320},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
